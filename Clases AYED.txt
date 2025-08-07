@@ -1,0 +1,83 @@
+
+	
+CLASE 2: Clases e instancias. Tipos de datos - Pasaje de parámetros en JAVA
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1647467861503
+
+CLASE 3:  Herencia y clases abstractas en Listas. Tipos genéricos
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1648074024229
+
+[a]
+CLASE 4:   Árboles Binarios. Definiciones. Recorridos - Árboles de Expresión  https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1648581891810
+
+CLASE 5: Árboles Binarios y de Expresión. Estructura en JAVA y ejemplos
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1648678906933
+
+CLASE 6: Construcción de Árboles de Expresión – Árboles Generales  
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1649187057708
+
+CLASE 7: Interfaces en JAVA - Objetos Comparable
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1649283484563
+
+CLASE 8: Árboles Generales en JAVA - Estructura y ejemplos
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1650493041535
+
+CLASE 9: Cola de Prioridades https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1649792059858
+
+CLASE 10: Cola de Prioridades (continuación) y HeapSort
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1650396557216
+
+CLASE 11: HEAP en JAVA
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/cd52c3082a873aedccf2982d52b8c3c1e3088541-1651097706189
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CLASE 12: Cálculo T(n) - Algoritmos iterativos
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/b0cc8bdb398afe0b8ab38f6a3cbcb7411c2d0295-1650999086635
+
+CLASE 13: Cálculo T(n) - Algoritmos iterativos (continuación) y recursivos
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/b0cc8bdb398afe0b8ab38f6a3cbcb7411c2d0295-1651606154860
+
+CLASE 14: Cálculo T(n) - Algoritmos recursivos, Notación Big-Oh, Soluciones iterativas vs. recursivas
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/b0cc8bdb398afe0b8ab38f6a3cbcb7411c2d0295-1652210951650
+
+CLASE 15:  Cálculo T(n) - Repaso: Explicación de una recurrencia (Ejercicio de las diap 25 y 26 del video anterior)
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/b0cc8bdb398afe0b8ab38f6a3cbcb7411c2d0295-1652307454078
+
+
+
+CLASE 16: Introducción a Grafos. Definiciones y Terminología
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/fcf3d244f9de17c24c5ba56673d1cf5c35f57909-1652311220985
+
+CLASE 17: Terminología (cont.) y Recorridos DFS y BFS
+
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/fcf3d244f9de17c24c5ba56673d1cf5c35f57909-1654025459229
+
+CLASE 18: Grafos en JAVA
+
+  https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/fcf3d244f9de17c24c5ba56673d1cf5c35f57909-1654121680202
+
+CLASE 19: Orden Topológico de Grafos
+
+  https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/fcf3d244f9de17c24c5ba56673d1cf5c35f57909-1654629832083
+
+CLASE 20: Caminos Mínimos
+
+  https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/fcf3d244f9de17c24c5ba56673d1cf5c35f57909-1654726465666
+
+CLASE 21:  Grafos: caminos mínimos (continuación) - Árbol de expansión mínima: Algoritmos de Prim y Kruskal
+
+  https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/fcf3d244f9de17c24c5ba56673d1cf5c35f57909-1655331073884
+

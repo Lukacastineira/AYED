@@ -1,0 +1,11 @@
+7.b) Si se tendría que haber hecho de diferente forma, principalmente tendríamos que haber declarado la LinkedListen vez de ArrayList. 
+
+import java.util.LinkedList;
+
+private LinkedList<T> lista;
+
+public TestArrayList() {
+    this.lista = new LinkedList<>();
+}
+
+En cuanto a los métodos no hay diferencias ya que ambos tipos de listas implementan List<T>
